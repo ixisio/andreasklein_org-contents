@@ -1,10 +1,9 @@
-{{{
-    "title"    : "Win the Fight against the multicontext / multidevice Army",
-    "tags"     : ["rwd"],
-    "category" : "notes",
-    "date"     : "10-16-2013",
-    "dateText" : "16 October 2013"
-}}}
+---
+title: Win the Fight against the multicontext / multidevice Army
+tags: [rwd]
+date: 10-16-2013
+dateText: 16 October 2013
+---
 
 Here are a few notes on the new reality of the multicontext & multidevice web. The browser should take care, on how to display a website optimized for the current device it is operating on. Right?
 

@@ -1,9 +1,9 @@
-{{{
-    "title"    : "Bootstrap Touch",
-    "tags"     : ["bootstrap", "touch"],
-    "date"     : "09-10-2013",
-    "dateText" : "9 October 2013"
-}}}
+---
+title: Bootstrap Touch
+tags: [bootstrap, touch]
+date: 09-10-2013
+dateText: 9 October 2013
+---
 
 One of [Twitter Bootstrap's](http://getbootstrap.com/) largest gabs is, it's not optimized for touch-enabled devices.
 Yeah I mean, it's not optimized for these device-types, but it works *okay*. But sometimes, we as developers have to enlarge the functionality of a BS component. You all know, this is *pain-in-the-ass*.
